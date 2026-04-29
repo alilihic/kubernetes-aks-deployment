@@ -1,4 +1,4 @@
-# kubernetes-aks-deployment
+# AKS cluster deployment with Helm, RBAC and Azure Monitor integration
 
 Production-grade Kubernetes manifests for deploying a containerised web application on Azure Kubernetes Service (AKS). Includes security hardening, autoscaling, ingress with TLS, and network policies.
 
